@@ -38,4 +38,4 @@ A platform used by teachers, students and parents. I built the frontend of these
 
 ### 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sona%20Kerimova-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-kerimova-6a6063267)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sona%20K%C9%99rimli-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-k%C9%99rimli-83014b253)
