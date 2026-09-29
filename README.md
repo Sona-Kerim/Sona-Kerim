@@ -25,7 +25,7 @@ A platform used by teachers, students and parents. I built the frontend of these
 
 **DevSys – Parent Control** — mobile app on iOS & Android  
 [![App Store](https://img.shields.io/badge/App%20Store-000000?logo=apple&logoColor=white)](https://apps.apple.com/us/app/devsys-parent-control/id6760163960) [![Google Play](https://img.shields.io/badge/Google%20Play-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.developiadevsys.developia)
-- Contributed to the frontend (React Native) and **currently maintain and support the app**
+- Added new features and improvements (React Native); **currently maintain and support the app**
 - Android release builds and CI pipeline, in-app parent survey module, UI fixes
 
 **Company websites**
@@ -38,4 +38,4 @@ A platform used by teachers, students and parents. I built the frontend of these
 
 ### 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sona%20K%C9%99rimli-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-k%C9%99rimli-83014b253)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sona%20Kerimova-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-kerimova-6a6063267)
