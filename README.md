@@ -36,14 +36,6 @@ A platform used by teachers, students and parents. I built the frontend of these
 
 ---
 
-### 🚀 Personal Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [finalProject](https://github.com/Sona-Kerim/finalProject) | Astrology web app: zodiac signs, daily horoscope, tarot, compatibility, quiz, dark mode | React, CSS |
-
----
-
 ### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sona%20K%C9%99rimli-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sona-k%C9%99rimli-83014b253)
